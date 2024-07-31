@@ -30,4 +30,4 @@ This project involves scraping data from a website listing the top companies in 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/a-wahid123/web-scrapping-project123
+   git clone https://github.com/a-wahid123/web-scrapping-project123.git

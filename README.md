@@ -1,7 +1,7 @@
 # Website Scraping of Top Companies in the United States by Revenue
 
 ## Project Overview
-This project involves scraping data from a website listing the top companies in the United States and organizing the data into a structured format for analysis. The main tools used are Python, BeautifulSoup, requests, and pandas.
+This project involves scraping data from a website listing the top companies in the United States by revenue and organizing the data into a structured format for analysis. The main tools used are Python, BeautifulSoup, requests, and pandas.
 
 ## Tools and Technologies
 - **Python:** Programming language used for scripting.
